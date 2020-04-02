@@ -1,1 +1,2 @@
 This project is designed to help me understand how elements get placed on the page and roughly how to style/align them.
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
